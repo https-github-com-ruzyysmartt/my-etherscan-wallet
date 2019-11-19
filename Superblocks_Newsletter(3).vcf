@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Thomas Backlund
+N;CHARSET=UTF-8:Thomas Backlund;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;Bastugatan 14A;Stockholm;;11820;Sweden
+EMAIL:hello@superblocks.com
+ORG;CHARSET=UTF-8:Superblocks AB
+URL:https://superblocks.com/
+END:VCARD
